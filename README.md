@@ -1,7 +1,8 @@
   ### Olá eu sou o Christian Martins 🖖
 
 - 🔭 Hoje estou apenas criando apps 
-- 🌱 Estudando Android
+- 🐍 Estudando Python
+- 🤖 Inteligência Artificial
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-martins-40a469254/)
 -
